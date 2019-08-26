@@ -44,6 +44,15 @@
 | [Transcendence](https://www.imdb.com/title/tt2209764/)                         | A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.                                                                                                                                 | 2014 | 6.3/10 |
 | [Eternal Sunshine of the Spotless Mind](https://www.imdb.com/title/tt0338013/) | When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.                                                                                                                                                  | 2004 | 8.3/10 |
 | [The Intern](https://www.imdb.com/title/tt2361509/)                            | Widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity, he becomes a senior intern at an online fashion site.                                                                                                        | 2015 | 7.1/10 |
+| [1 - Nenokkadine](https://www.imdb.com/title/tt2375559/)                       | A rock star must overcome his psychological inhibitions to seek revenge for his parents' death.                                                                                                                                                                            | 2014 | 8.2/10 |
+| [The Truman Show](https://www.imdb.com/title/tt0120382/)                       | An insurance salesman discovers his whole life is actually a reality TV show.                                                                                                                                                                                              | 1998 | 8.1/10 |
+| [Good Will Hunting](https://www.imdb.com/title/tt0119217/)                     | Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.                                                                                                                                           | 1997 | 8.3/10 |
+| [The Girl Who Leapt Through Time](https://www.imdb.com/title/tt0808506/)       | A high-school girl named Makoto acquires the power to travel back in time, and decides to use it for her own personal benefits. Little does she know that she is affecting the lives of others just as much as she is her own.                                             | 2006 | 7.8/10 |
+| [A Beautiful Mind](https://www.imdb.com/title/tt0268978/)                      | After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.                                                                                                                                    | 2001 | 8.2/10 |
+| [Dil Chahta Hai](https://www.imdb.com/title/tt0292490/)                        | Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.                                                                            | 2001 | 8.1/10 |
+| [Big Hero 6](https://www.imdb.com/title/tt2245084/)                            | The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.                                                                                                | 2014 | 7.8/10 |
+| [Rocket Singh: Salesman of the Year](https://www.imdb.com/title/tt1434447/)    | A story of a fresh graduate trying to find a balance between the maddening demands of the 'professional' way, and the way of his heart.                                                                                                                                    | 2009 | 7.5/10 |
+| [The Big Short](https://www.imdb.com/title/tt1596363/)                         | In 2006-7 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is.                                                                                                                                   | 2015 | 7.8/10 |
 
 ## Documentaries
 
@@ -85,23 +94,22 @@
 
 # TV Shows
 
-| TITLE                                                            | GENRE                 | YEAR | RATING |
-| ---------------------------------------------------------------- | --------------------- | ---- | ------ |
-| [Black Mirror](https://www.imdb.com/title/tt2085059/)            | Drama/Science Fiction | 2011 | 8.9/10 |
-| [CSI: Cyber](https://www.imdb.com/title/tt3560060/)              | Crime/Drama/Mystery   | 2015 | 5.4/10 |
-| [Dark Net](https://www.imdb.com/title/tt5397520/)                | Documentary Series    | 2016 | 7.3/10 |
-| [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)     | Drama                 | 2014 | 8.3/10 |
-| [Mr. Robot](https://www.imdb.com/title/tt4158110/)               | Thriller/Drama        | 2015 | 8.7/10 |
-| [Person of Interest](https://www.imdb.com/title/tt1839578/)      | Action/Crime/Drama    | 2011 | 8.5/10 |
-| [Scorpion](https://www.imdb.com/title/tt3514324/)                | Action/Drama          | 2014 | 7.2/10 |
-| [Serial Experiments Lain](https://www.imdb.com/title/tt0500092/) | Cyberpunk/Animation   | 1998 | 8.2/10 |
-| [Silicon Valley](https://www.imdb.com/title/tt2575988/)          | Comedy                | 2014 | 8.5/10 |
-| [StartUp](https://www.imdb.com/title/tt5028002/)                 | Crime/Thriller        | 2016 | 8.1/10 |
-| [The Code](https://www.imdb.com/title/tt3914672/)                | Drama                 | 2014 | 7.6/10 |
-| [The IT Crowd](https://www.imdb.com/title/tt0487831/)            | Comedy                | 2006 | 8.6/10 |
-| [Travelers](https://www.imdb.com/title/tt5651844/)               | Science Fiction       | 2016 | 8.0/10 |
-| [Westworld](https://www.imdb.com/title/tt0475784/)               | Drama/Mystery         | 2016 | 9.0/10 |
-| [You Are Wanted](https://www.imdb.com/title/tt5462886/)          | Drama/Thriller        | 2017 | 6.1/10 |
+| TITLE                                                                | GENRE                                                                                                                             | YEAR | RATING |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
+| [Black Mirror](https://www.imdb.com/title/tt2085059/)                | Drama/Science Fiction                                                                                                             | 2011 | 8.9/10 |
+| [Dark Net](https://www.imdb.com/title/tt5397520/)                    | Documentary Series                                                                                                                | 2016 | 7.3/10 |
+| [Halt and Catch Fire](https://www.imdb.com/title/tt2543312/)         | Drama                                                                                                                             | 2014 | 8.3/10 |
+| [Mr. Robot](https://www.imdb.com/title/tt4158110/)                   | Thriller/Drama                                                                                                                    | 2015 | 8.7/10 |
+| [Person of Interest](https://www.imdb.com/title/tt1839578/)          | Action/Crime/Drama                                                                                                                | 2011 | 8.5/10 |
+| [Serial Experiments Lain](https://www.imdb.com/title/tt0500092/)     | Cyberpunk/Animation                                                                                                               | 1998 | 8.2/10 |
+| [Silicon Valley](https://www.imdb.com/title/tt2575988/)              | Comedy                                                                                                                            | 2014 | 8.5/10 |
+| [StartUp](https://www.imdb.com/title/tt5028002/)                     | Crime/Thriller                                                                                                                    | 2016 | 8.1/10 |
+| [The Code](https://www.imdb.com/title/tt3914672/)                    | Drama                                                                                                                             | 2014 | 7.6/10 |
+| [The IT Crowd](https://www.imdb.com/title/tt0487831/)                | Comedy                                                                                                                            | 2006 | 8.6/10 |
+| [Travelers](https://www.imdb.com/title/tt5651844/)                   | Science Fiction                                                                                                                   | 2016 | 8.0/10 |
+| [Westworld](https://www.imdb.com/title/tt0475784/)                   | Drama/Mystery                                                                                                                     | 2016 | 9.0/10 |
+| [Batman: The Animated Series](https://www.imdb.com/title/tt0103359/) | The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.                                         | 1992 | 9.0/10 |
+| [TVF Pitchers](https://www.imdb.com/title/tt4742876/)                | A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture. | 1992 | 9.2/10 |
 
 # Contributing
 
