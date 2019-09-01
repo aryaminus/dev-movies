@@ -11,7 +11,7 @@
   - [TV Shows](#tv-shows)
   - [Contributing](#contributing)
 
-- - -
+---
 
 ## Movies
 
@@ -59,38 +59,37 @@
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 | ------------------------------------------------------------------------------------------ | ------------------------- | ---- | ------ |
 | [BBS: The Documentary](https://www.imdb.com/title/tt0460402/)                              | Documentary               | 2005 | 8.7/10 |
-| [Citizenfour](https://www.imdb.com/title/tt4044364/)                                       | Biography/Documentary     | 2014 | 8.1/10 |
-| [Code 2600](https://www.imdb.com/title/tt1830538/)                                         | Documentary               | 2012 | 7.4/10 |
-| [Deep Web](https://www.imdb.com/title/tt3312868/)                                          | Documentary               | 2015 | 7.1/10 |
-| [DEFCON: The Documentary](https://www.imdb.com/title/tt3010462/)                           | Documentary               | 2013 | 5.7/10 |
-| [DSKNECTD](https://www.imdb.com/title/tt2417174/)                                          | Documentary               | 2013 | 7.4/10 |
-| [Downloaded](https://www.imdb.com/title/tt2033981/)                                        | Documentary               | 2013 | 6.8/10 |
-| [Freedom Downtime](https://www.imdb.com/title/tt0309614/)                                  | Documentary               | 2001 | 7.6/10 |
-| [Good Copy Bad Copy](https://www.imdb.com/title/tt1782451/)                                | Documentary               | 2007 | 7.2/10 |
-| [Hackers Are People Too](https://www.imdb.com/title/tt1279942/)                            | Short Film/Documentary    | 2008 | 6.1/10 |
-| [Hacking Democracy](https://www.imdb.com/title/tt0808532/)                                 | Documentary               | 2006 | 7.9/10 |
-| [Hackers Wanted](https://www.imdb.com/title/tt2292707/)                                    | Indie Film/Documentary    | 2009 | 6.5/10 |
-| [In the Realm of the Hackers](https://www.imdb.com/title/tt1199631/)                       | Documentary               | 2003 | 7.4/10 |
-| [Indie Game: The Movie](https://www.imdb.com/title/tt1942884/)                             | Documentary               | 2012 | 7.7/10 |
-| [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)                         | Television Film/Docudrama | 1999 | 7.3/10 |
-| [Plug and Pray](https://www.imdb.com/title/tt1692889/)                                     | Documentary               | 2010 | 7.2/10 |
-| [Revolution OS](https://www.imdb.com/title/tt0308808/)                                     | Indie Film/Documentary    | 2001 | 7.3/10 |
-| [Silk Road: Drugs, Death and the Dark Web](https://www.imdb.com/title/tt7301126/)          | Documentary               | 2017 | 7.4/10 |
-| [Softwaring Hard](https://www.imdb.com/title/tt3063636/)                                   | Documentary               | 2014 | 8.2/10 |
-| [Steal This Film](https://www.imdb.com/title/tt1422757/)                                   | Short Film/Documentary    | 2006 | 7.1/10 |
-| [TPB AFK: The Pirate Bay Away from Keyboard](https://www.imdb.com/title/tt2608732/)        | Documentary               | 2013 | 7.6/10 |
-| [Terms and Conditions May Apply](https://www.imdb.com/title/tt2084953/)                    | Documentary               | 2013 | 7.4/10 |
-| [The Code](https://www.imdb.com/title/tt0315417/)                                          | Documentary               | 2001 | 7.5/10 |
-| [The Hacker Wars](https://www.imdb.com/title/tt4047350/)                                   | Documentary               | 2014 | 6.6/10 |
-| [The Internet's Own Boy: The Story of Aaron Swartz](https://www.imdb.com/title/tt3268458/) | Documentary               | 2014 | 8.1/10 |
 | [The KGB, the Computer and Me](https://www.imdb.com/title/tt0308449/)                      | Documentary               | 1990 | 8.3/10 |
-| [The Secret History Of Hacking](https://www.imdb.com/title/tt2335921/)                     | Documentary               | 2001 | 7.6/10 |
-| [The Singularity](https://www.imdb.com/title/tt2073120/)                                   | Drama/Science Fiction     | 2012 | 7.3/10 |
-| [War for the Web](https://www.imdb.com/title/tt2390367/)                                   | Documentary               | 2015 | 7.4/10 |
-| [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary               | 2012 | 7.3/10 |
-| [We Steal Secrets: The Story of WikiLeaks](https://www.imdb.com/title/tt1824254/)          | Documentary               | 2013 | 6.9/10 |
+| [Softwaring Hard](https://www.imdb.com/title/tt3063636/)                                   | Documentary               | 2014 | 8.2/10 |
+| [Citizenfour](https://www.imdb.com/title/tt4044364/)                                       | Biography/Documentary     | 2014 | 8.1/10 |
+| [The Internet's Own Boy: The Story of Aaron Swartz](https://www.imdb.com/title/tt3268458/) | Documentary               | 2014 | 8.1/10 |
+| [Hacking Democracy](https://www.imdb.com/title/tt0808532/)                                 | Documentary               | 2006 | 7.9/10 |
 | [Zero Days](https://www.imdb.com/title/tt5446858/)                                         | Documentary               | 2016 | 7.8/10 |
-
+| [Indie Game: The Movie](https://www.imdb.com/title/tt1942884/)                             | Documentary               | 2012 | 7.7/10 |
+| [Freedom Downtime](https://www.imdb.com/title/tt0309614/)                                  | Documentary               | 2001 | 7.6/10 |
+| [TPB AFK: The Pirate Bay Away from Keyboard](https://www.imdb.com/title/tt2608732/)        | Documentary               | 2013 | 7.6/10 |
+| [The Secret History Of Hacking](https://www.imdb.com/title/tt2335921/)                     | Documentary               | 2001 | 7.6/10 |
+| [The Code](https://www.imdb.com/title/tt0315417/)                                          | Documentary               | 2001 | 7.5/10 |
+| [Code 2600](https://www.imdb.com/title/tt1830538/)                                         | Documentary               | 2012 | 7.4/10 |
+| [DSKNECTD](https://www.imdb.com/title/tt2417174/)                                          | Documentary               | 2013 | 7.4/10 |
+| [In the Realm of the Hackers](https://www.imdb.com/title/tt1199631/)                       | Documentary               | 2003 | 7.4/10 |
+| [Silk Road: Drugs, Death and the Dark Web](https://www.imdb.com/title/tt7301126/)          | Documentary               | 2017 | 7.4/10 |
+| [Terms and Conditions May Apply](https://www.imdb.com/title/tt2084953/)                    | Documentary               | 2013 | 7.4/10 |
+| [War for the Web](https://www.imdb.com/title/tt2390367/)                                   | Documentary               | 2015 | 7.4/10 |
+| [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)                         | Television Film/Docudrama | 1999 | 7.3/10 |
+| [Revolution OS](https://www.imdb.com/title/tt0308808/)                                     | Indie Film/Documentary    | 2001 | 7.3/10 |
+| [The Singularity](https://www.imdb.com/title/tt2073120/)                                   | Drama/Science Fiction     | 2012 | 7.3/10 |
+| [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt2177843/)       | Documentary               | 2012 | 7.3/10 |
+| [Good Copy Bad Copy](https://www.imdb.com/title/tt1782451/)                                | Documentary               | 2007 | 7.2/10 |
+| [Plug and Pray](https://www.imdb.com/title/tt1692889/)                                     | Documentary               | 2010 | 7.2/10 |
+| [Steal This Film](https://www.imdb.com/title/tt1422757/)                                   | Short Film/Documentary    | 2006 | 7.1/10 |
+| [Deep Web](https://www.imdb.com/title/tt3312868/)                                          | Documentary               | 2015 | 7.1/10 |
+| [We Steal Secrets: The Story of WikiLeaks](https://www.imdb.com/title/tt1824254/)          | Documentary               | 2013 | 6.9/10 |
+| [Downloaded](https://www.imdb.com/title/tt2033981/)                                        | Documentary               | 2013 | 6.8/10 |
+| [The Hacker Wars](https://www.imdb.com/title/tt4047350/)                                   | Documentary               | 2014 | 6.6/10 |
+| [Hackers Wanted](https://www.imdb.com/title/tt2292707/)                                    | Indie Film/Documentary    | 2009 | 6.5/10 |
+| [Hackers Are People Too](https://www.imdb.com/title/tt1279942/)                            | Short Film/Documentary    | 2008 | 6.1/10 |
+| [DEFCON: The Documentary](https://www.imdb.com/title/tt3010462/)                           | Documentary               | 2013 | 5.7/10 |
 
 ## TV Shows
 
