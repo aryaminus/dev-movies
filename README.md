@@ -56,7 +56,7 @@
 
 ## TV Shows
 
-| TITLE                                                                | GENRE                                                                                                                             | YEAR | RATING |
+| TITLE                                                                | PLOT                                                                                                                             | YEAR | RATING |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
 | [TVF Pitchers](https://www.imdb.com/title/tt4742876/)                | A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture. | 1992 | 9.2/10 |
 | [Westworld](https://www.imdb.com/title/tt0475784/)                   | Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.                                                                                                                     | 2016 | 9.0/10 |
