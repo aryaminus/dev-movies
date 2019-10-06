@@ -53,6 +53,7 @@
 | [Transcendence](https://www.imdb.com/title/tt2209764/)                         | A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.                                                                                                                                 | 2014 | 6.3/10 |
 | [The Fifth Estate](https://www.imdb.com/title/tt1837703/)                      | The Fifth Estate portrays the incidents and controversies that paved the way for WikiLeaks.                                                                                                                                                                                | 2013 | 6.2/10 |
 | [Jobs](https://www.imdb.com/title/tt2357129/)                                  | The movie Jobs portrays important incidents in his life right from his college to the finding of the Apple iPod.                                                                                                                                                           | 2013 | 5.9/10 |
+| [Memento](https://www.imdb.com/title/tt0209144/)                                  | A man with short-term memory loss attempts to track down his wife's murderer.                                                                                                                                                                                              | 2000 | 8.4/10 |
 
 ## TV Shows
 
