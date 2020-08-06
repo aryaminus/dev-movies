@@ -1,4 +1,4 @@
-# Movies For Developers
+﻿# Movies For Developers
 
 > A collection of recommended movies for people working in the Software and IT Industry
 
@@ -54,6 +54,7 @@
 | [The Fifth Estate](https://www.imdb.com/title/tt1837703/)                      | The Fifth Estate portrays the incidents and controversies that paved the way for WikiLeaks.                                                                                                                                                                                | 2013 | 6.2/10 |
 | [Jobs](https://www.imdb.com/title/tt2357129/)                                  | The movie Jobs portrays important incidents in his life right from his college to the finding of the Apple iPod.                                                                                                                                                           | 2013 | 5.9/10 |
 | [Memento](https://www.imdb.com/title/tt0209144/)                                  | A man with short-term memory loss attempts to track down his wife's murderer.                                                                                                                                                                                              | 2000 | 8.4/10 |
+| [Lucy](https://www.imdb.com/title/tt2872732/)                                  |A thriller about an American woman who gets kidnapped into service as a drug mule bearing an experimental synthetic hormone, accidentally absorbs some of it, then sheds her physical, intellectual and perceptual limitations.                                             | 2014 | 6.4/10 |
 
 ## TV Shows
 
